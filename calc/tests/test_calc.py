@@ -1,4 +1,5 @@
 from calc import add
+from calc import div
 
 def test_add():
     assert add(1, 2) == 3

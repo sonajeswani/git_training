@@ -8,7 +8,8 @@ def subtract(a, b):
     return 0
 
 def div(a, b):
-    return a
+    """This function divides two numbers"""
+    return a/b
 
 def mul(a, b):
     return b
